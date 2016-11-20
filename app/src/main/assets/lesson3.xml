@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chinesechars>
+    <chinesechar>
+        <tone>1</tone>
+        <character>先</character>
+        <pinyin>Xiān</pinyin>
+        <mean>yang awal, pertama</mean>      
+        <clue>pria berotot</clue>
+		<use>先生 Xiānshēng (pronounciation)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>生</character>
+        <pinyin>shēng</pinyin>
+        <mean>kesehatan</mean>      
+        <clue>tiang/pohon dan burung menclok</clue>
+		<use>先生 Xiānshēng (pronounciation)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>3</tone>
+        <character>小</character>
+        <pinyin>Xiǎo</pinyin>
+        <mean>kecil</mean>      
+        <clue>anak kecil </clue>
+		<use>小姐 Xiǎojiě (pronounciation)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>3</tone>
+        <character>姐</character>
+        <pinyin>jiě</pinyin>
+        <mean>saudara perempuan</mean>      
+        <clue>karakter wanita dan lemari </clue>
+		<use>小姐 Xiǎojiě (pronounciation)</use>
+    </chinesechar>
+</chinesechars>
